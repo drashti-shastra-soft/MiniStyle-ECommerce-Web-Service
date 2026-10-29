@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniStyleWebService", "MiniStyleWebService\MiniStyleWebService.csproj", "{94975612-F4F8-4183-93C3-6D593F56A89A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniStyleWebService.Domain", "MiniStyleWebService.Domain\MiniStyleWebService.Domain.csproj", "{DDB2DEF2-1E60-408E-BBDE-7304FD28F8BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniStyleWebService.Infrastructure", "MiniStyleWebService.Infrastructure\MiniStyleWebService.Infrastructure.csproj", "{8A511FEA-0878-459A-9234-69D5ED7DF67D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniStyleWebService.Persistence", "MiniStyleWebService.Persistence\MiniStyleWebService.Persistence.csproj", "{86C0F7E6-9EC4-4018-8478-C3E154E8D4A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniStyleWebService.Repository", "MiniStyleWebService.Repository\MiniStyleWebService.Repository.csproj", "{10890ADB-A90B-4080-B93B-D58ECC4F9FE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniStyleWebService.Service", "MiniStyleWebService.Service\MiniStyleWebService.Service.csproj", "{D696563E-0C73-4812-91FE-FF1810EDE27E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94975612-F4F8-4183-93C3-6D593F56A89A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94975612-F4F8-4183-93C3-6D593F56A89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94975612-F4F8-4183-93C3-6D593F56A89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94975612-F4F8-4183-93C3-6D593F56A89A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDB2DEF2-1E60-408E-BBDE-7304FD28F8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB2DEF2-1E60-408E-BBDE-7304FD28F8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB2DEF2-1E60-408E-BBDE-7304FD28F8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB2DEF2-1E60-408E-BBDE-7304FD28F8BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A511FEA-0878-459A-9234-69D5ED7DF67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A511FEA-0878-459A-9234-69D5ED7DF67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A511FEA-0878-459A-9234-69D5ED7DF67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A511FEA-0878-459A-9234-69D5ED7DF67D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C0F7E6-9EC4-4018-8478-C3E154E8D4A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C0F7E6-9EC4-4018-8478-C3E154E8D4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C0F7E6-9EC4-4018-8478-C3E154E8D4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C0F7E6-9EC4-4018-8478-C3E154E8D4A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10890ADB-A90B-4080-B93B-D58ECC4F9FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10890ADB-A90B-4080-B93B-D58ECC4F9FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10890ADB-A90B-4080-B93B-D58ECC4F9FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10890ADB-A90B-4080-B93B-D58ECC4F9FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D696563E-0C73-4812-91FE-FF1810EDE27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D696563E-0C73-4812-91FE-FF1810EDE27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D696563E-0C73-4812-91FE-FF1810EDE27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D696563E-0C73-4812-91FE-FF1810EDE27E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41A9097D-3D27-4199-A4A6-E44E1FB9217F}
+	EndGlobalSection
+EndGlobal

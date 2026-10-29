@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="938e1341dc054f3a90021e5c8b7939f1" Name="Diagram1" ZoomLevel="97">
+        <EntityTypeShape EntityType="MiniStyleDBModel.AgeGroup" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="MiniStyleDBModel.AuditTrail" Width="1.5" PointX="2.75" PointY="0.75" />
+        <EntityTypeShape EntityType="MiniStyleDBModel.Cart" Width="1.5" PointX="4.75" PointY="0.75" />
+        <EntityTypeShape EntityType="MiniStyleDBModel.Category" Width="1.5" PointX="0.75" PointY="4.75" />
+        <EntityTypeShape EntityType="MiniStyleDBModel.Color" Width="1.5" PointX="2.75" PointY="4.75" />
+        <EntityTypeShape EntityType="MiniStyleDBModel.Fabric" Width="1.5" PointX="4.75" PointY="4.75" />
+        <EntityTypeShape EntityType="MiniStyleDBModel.MicroCategory" Width="1.5" PointX="6.75" PointY="0.75" />
+        <EntityTypeShape EntityType="MiniStyleDBModel.Order" Width="1.5" PointX="6.75" PointY="3.75" />
+        <EntityTypeShape EntityType="MiniStyleDBModel.OrderLine" Width="1.5" PointX="0.75" PointY="7.75" />
+        <EntityTypeShape EntityType="MiniStyleDBModel.Product" Width="1.5" PointX="2.75" PointY="7.75" />
+        <EntityTypeShape EntityType="MiniStyleDBModel.ProductAgeGroup" Width="1.5" PointX="8.75" PointY="0.75" />
+        <EntityTypeShape EntityType="MiniStyleDBModel.ProductColor" Width="1.5" PointX="8.75" PointY="3.75" />
+        <EntityTypeShape EntityType="MiniStyleDBModel.ProductDetail" Width="1.5" PointX="4.75" PointY="8.75" />
+        <EntityTypeShape EntityType="MiniStyleDBModel.ProductImage" Width="1.5" PointX="8.75" PointY="6.75" />
+        <EntityTypeShape EntityType="MiniStyleDBModel.ProductPrice" Width="1.5" PointX="6.75" PointY="9.75" />
+        <EntityTypeShape EntityType="MiniStyleDBModel.ProductSizeChart" Width="1.5" PointX="8.75" PointY="9.75" />
+        <EntityTypeShape EntityType="MiniStyleDBModel.SubCategory" Width="1.5" PointX="10.75" PointY="0.75" />
+        <EntityTypeShape EntityType="MiniStyleDBModel.UnitType" Width="1.5" PointX="10.75" PointY="3.75" />
+        <EntityTypeShape EntityType="MiniStyleDBModel.User" Width="1.5" PointX="10.75" PointY="6.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
